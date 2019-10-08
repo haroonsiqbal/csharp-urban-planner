@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/obj/Debug/netcoreapp3.0/urban-planner.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/obj/Debug/netcoreapp3.0/urban-planner.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/obj/Debug/netcoreapp3.0/urban-planner.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/bin/Debug/netcoreapp3.0/urban-planner
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/bin/Debug/netcoreapp3.0/urban-planner.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/bin/Debug/netcoreapp3.0/urban-planner.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/bin/Debug/netcoreapp3.0/urban-planner.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/bin/Debug/netcoreapp3.0/urban-planner.dll
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/bin/Debug/netcoreapp3.0/urban-planner.pdb
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/obj/Debug/netcoreapp3.0/urban-planner.dll
+/Users/harooniqbal/workspace/csharp/exercises/urban-planner/obj/Debug/netcoreapp3.0/urban-planner.pdb
