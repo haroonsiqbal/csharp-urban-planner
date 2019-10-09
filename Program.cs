@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace urban_planner
 {
@@ -28,9 +29,15 @@ namespace urban_planner
             FiveHundredChurch.Construct();
             FiveHundredChurch.Purchase("The Simmons Trust Company");
 
-            FiveOneTwoEigth.Print();
-            TwoThirteenUnion.Print();
-            FiveHundredChurch.Print();
+            City megalopolis = new City("megalopolis", "mr. rogers", 1806);
+            megalopolis.addBuilding(FiveOneTwoEigth);
+            megalopolis.addBuilding(TwoThirteenUnion);
+            megalopolis.addBuilding(FiveHundredChurch);
+
+            foreach (Building building in megalopolis.Buildings)
+            {
+                building.Print();
+            }
         }
     }
 }
